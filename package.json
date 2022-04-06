@@ -1,0 +1,18 @@
+{
+  "name": "shuffle-string",
+  "version": "1.0.0",
+  "description": "Leetcode exercise - Shuffle String",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha --recursive"
+  },
+  "author": "Alejandro Iñigo Rojas",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "eslint": "^8.12.0",
+    "eslint-config-google": "^0.14.0",
+    "mocha": "^9.2.2"
+  }
+}
